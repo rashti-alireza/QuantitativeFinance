@@ -2,20 +2,11 @@
 ## Quantitative Finance ##
 ##########################
 
-
 ## Projects
-. time series analysis
-. time series forecast
-. multifactor models
-. modeling volatility
-. asset allocation
+. time series analysis & forecast
 . portfolio management
-. prediction
-. credit default
-. backtesting
 
 ## Required libraries
-
 
 ## References
 . Quantitative Finance by Paul Wilmott
