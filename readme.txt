@@ -7,6 +7,7 @@
 . portfolio management
 
 ## Required libraries
+$ pip3 install -r requirements.txt
 
 ## References
 . Quantitative Finance by Paul Wilmott
