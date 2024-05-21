@@ -4,7 +4,8 @@
 
 ## Projects
 . time series analysis & forecast
-. portfolio management
+. portfolio management of FAANG assets
+. predicting credit default
 
 ## Required libraries
 $ pip3 install -r requirements.txt
